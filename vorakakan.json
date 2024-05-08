@@ -100,7 +100,7 @@
     "age",
     "dob",
     "club_team_id",
-    "cluba_jersey_number",
+    "club_jersey_number",
     "club_loaned_from",
     "club_contract_valid_until",
     "nationality_name",

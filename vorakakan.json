@@ -75,7 +75,8 @@
     "rcb",
     "rb",
     "gk",
-    "player_traits"
+    "player_traits",
+    "age"
   ],
   "opinion": [
     "international_reputation",
@@ -90,21 +91,21 @@
     "league_level",
     "league_name",
     "club_name",
-    "nation_position"
+    "nation_position",
+    "sofifa_id",
+    "nationality_id",
+    "nation_team_id",
+    "club_team_id"
   ],
   "other": [
-    "sofifa_id",
     "player_url",
     "short_name",
     "long_name",
-    "age",
     "dob",
-    "club_team_id",
     "club_jersey_number",
     "club_loaned_from",
     "club_contract_valid_until",
     "nationality_name",
-    "nation_team_id",
     "nation_jersey_number",
     "real_face",
     "player_tags",
@@ -112,7 +113,6 @@
     "club_logo_url",
     "club_flag_url",
     "nation_logo_url",
-    "nation_flag_url",
-    "nationality_id"
+    "nation_flag_url"
   ]
 }
